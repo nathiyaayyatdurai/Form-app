@@ -1,0 +1,41 @@
+.wrapper-title{
+    text-align: center;
+    background-color:#4287f5;
+    width: 450px;
+    margin: auto;
+}
+
+.wrapper-main{
+    margin: auto;
+    width: 450px;
+}
+
+.success-wrapper{
+    text-align: center;
+    background-color:#92f092;
+    margin: auto;
+    width: 500px;
+    margin-top: 20px;
+    padding-bottom: 5px;
+}
+.copy{
+    cursor: pointer;
+}
+.dashboard-wrapper{
+    margin-top: 30px;
+}
+.head-wrapper{
+    display: grid;
+    grid-template-columns: 250px 250px 250px;
+    grid-gap: 20px;
+    place-content: center;
+}
+.main-wrapper
+{
+    place-content: center;
+}
+
+.cards{
+    text-align: center;
+    cursor: pointer;
+}
